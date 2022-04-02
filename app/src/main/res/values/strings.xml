@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveData Sample</string>
+    <string name="waiting">Waiting</string>
+    <string name="Trigger_button">Increase</string>
+</resources>
